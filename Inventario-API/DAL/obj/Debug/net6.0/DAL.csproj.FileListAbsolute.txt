@@ -1,0 +1,24 @@
+C:\Users\gonza\Documents\Programacion\C#\Inventario-API\DAL\bin\Debug\net6.0\DAL.deps.json
+C:\Users\gonza\Documents\Programacion\C#\Inventario-API\DAL\bin\Debug\net6.0\DAL.dll
+C:\Users\gonza\Documents\Programacion\C#\Inventario-API\DAL\bin\Debug\net6.0\DAL.pdb
+C:\Users\gonza\Documents\Programacion\C#\Inventario-API\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+C:\Users\gonza\Documents\Programacion\C#\Inventario-API\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gonza\Documents\Programacion\C#\Inventario-API\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+C:\Users\gonza\Documents\Programacion\C#\Inventario-API\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+C:\Users\gonza\Documents\Programacion\C#\Inventario-API\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\gonza\Documents\Programacion\C#\Inventario-API\DAL\obj\Debug\net6.0\DAL.dll
+C:\Users\gonza\Documents\Programacion\C#\Inventario-API\DAL\obj\Debug\net6.0\refint\DAL.dll
+C:\Users\gonza\Documents\Programacion\C#\Inventario-API\DAL\obj\Debug\net6.0\DAL.pdb
+C:\Users\gonza\Documents\Programacion\C#\Inventario-API\DAL\obj\Debug\net6.0\ref\DAL.dll
+C:\Users\JuanE\OneDrive\Documentos\Juan Pablo\Programacion\API-INVENTARIO\Inventario-API\DAL\bin\Debug\net6.0\DAL.deps.json
+C:\Users\JuanE\OneDrive\Documentos\Juan Pablo\Programacion\API-INVENTARIO\Inventario-API\DAL\bin\Debug\net6.0\DAL.dll
+C:\Users\JuanE\OneDrive\Documentos\Juan Pablo\Programacion\API-INVENTARIO\Inventario-API\DAL\bin\Debug\net6.0\DAL.pdb
+C:\Users\JuanE\OneDrive\Documentos\Juan Pablo\Programacion\API-INVENTARIO\Inventario-API\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+C:\Users\JuanE\OneDrive\Documentos\Juan Pablo\Programacion\API-INVENTARIO\Inventario-API\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JuanE\OneDrive\Documentos\Juan Pablo\Programacion\API-INVENTARIO\Inventario-API\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+C:\Users\JuanE\OneDrive\Documentos\Juan Pablo\Programacion\API-INVENTARIO\Inventario-API\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+C:\Users\JuanE\OneDrive\Documentos\Juan Pablo\Programacion\API-INVENTARIO\Inventario-API\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\JuanE\OneDrive\Documentos\Juan Pablo\Programacion\API-INVENTARIO\Inventario-API\DAL\obj\Debug\net6.0\DAL.dll
+C:\Users\JuanE\OneDrive\Documentos\Juan Pablo\Programacion\API-INVENTARIO\Inventario-API\DAL\obj\Debug\net6.0\refint\DAL.dll
+C:\Users\JuanE\OneDrive\Documentos\Juan Pablo\Programacion\API-INVENTARIO\Inventario-API\DAL\obj\Debug\net6.0\DAL.pdb
+C:\Users\JuanE\OneDrive\Documentos\Juan Pablo\Programacion\API-INVENTARIO\Inventario-API\DAL\obj\Debug\net6.0\ref\DAL.dll

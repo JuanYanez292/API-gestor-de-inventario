@@ -1,0 +1,23 @@
+C:\Users\gonza\Documents\Programacion\C#\Inventario-API\MODELS\bin\Debug\net6.0\MODELS.deps.json
+C:\Users\gonza\Documents\Programacion\C#\Inventario-API\MODELS\bin\Debug\net6.0\MODELS.dll
+C:\Users\gonza\Documents\Programacion\C#\Inventario-API\MODELS\bin\Debug\net6.0\MODELS.pdb
+C:\Users\gonza\Documents\Programacion\C#\Inventario-API\MODELS\obj\Debug\net6.0\MODELS.csproj.AssemblyReference.cache
+C:\Users\gonza\Documents\Programacion\C#\Inventario-API\MODELS\obj\Debug\net6.0\MODELS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gonza\Documents\Programacion\C#\Inventario-API\MODELS\obj\Debug\net6.0\MODELS.AssemblyInfoInputs.cache
+C:\Users\gonza\Documents\Programacion\C#\Inventario-API\MODELS\obj\Debug\net6.0\MODELS.AssemblyInfo.cs
+C:\Users\gonza\Documents\Programacion\C#\Inventario-API\MODELS\obj\Debug\net6.0\MODELS.csproj.CoreCompileInputs.cache
+C:\Users\gonza\Documents\Programacion\C#\Inventario-API\MODELS\obj\Debug\net6.0\MODELS.dll
+C:\Users\gonza\Documents\Programacion\C#\Inventario-API\MODELS\obj\Debug\net6.0\refint\MODELS.dll
+C:\Users\gonza\Documents\Programacion\C#\Inventario-API\MODELS\obj\Debug\net6.0\MODELS.pdb
+C:\Users\gonza\Documents\Programacion\C#\Inventario-API\MODELS\obj\Debug\net6.0\ref\MODELS.dll
+C:\Users\JuanE\OneDrive\Documentos\Juan Pablo\Programacion\API-INVENTARIO\Inventario-API\MODELS\bin\Debug\net6.0\MODELS.deps.json
+C:\Users\JuanE\OneDrive\Documentos\Juan Pablo\Programacion\API-INVENTARIO\Inventario-API\MODELS\bin\Debug\net6.0\MODELS.dll
+C:\Users\JuanE\OneDrive\Documentos\Juan Pablo\Programacion\API-INVENTARIO\Inventario-API\MODELS\bin\Debug\net6.0\MODELS.pdb
+C:\Users\JuanE\OneDrive\Documentos\Juan Pablo\Programacion\API-INVENTARIO\Inventario-API\MODELS\obj\Debug\net6.0\MODELS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JuanE\OneDrive\Documentos\Juan Pablo\Programacion\API-INVENTARIO\Inventario-API\MODELS\obj\Debug\net6.0\MODELS.AssemblyInfoInputs.cache
+C:\Users\JuanE\OneDrive\Documentos\Juan Pablo\Programacion\API-INVENTARIO\Inventario-API\MODELS\obj\Debug\net6.0\MODELS.AssemblyInfo.cs
+C:\Users\JuanE\OneDrive\Documentos\Juan Pablo\Programacion\API-INVENTARIO\Inventario-API\MODELS\obj\Debug\net6.0\MODELS.csproj.CoreCompileInputs.cache
+C:\Users\JuanE\OneDrive\Documentos\Juan Pablo\Programacion\API-INVENTARIO\Inventario-API\MODELS\obj\Debug\net6.0\MODELS.dll
+C:\Users\JuanE\OneDrive\Documentos\Juan Pablo\Programacion\API-INVENTARIO\Inventario-API\MODELS\obj\Debug\net6.0\refint\MODELS.dll
+C:\Users\JuanE\OneDrive\Documentos\Juan Pablo\Programacion\API-INVENTARIO\Inventario-API\MODELS\obj\Debug\net6.0\MODELS.pdb
+C:\Users\JuanE\OneDrive\Documentos\Juan Pablo\Programacion\API-INVENTARIO\Inventario-API\MODELS\obj\Debug\net6.0\ref\MODELS.dll

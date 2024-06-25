@@ -1,0 +1,92 @@
+[
+  {
+    "ContainingType": "API_VENTAS.Controllers.AutenticacionController",
+    "Method": "Token",
+    "RelativePath": "api/Autenticacion/Token",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "UsuarioT",
+        "Type": "MODELS.DtoToken",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "API_Inventario.Controllers.ProductoController",
+    "Method": "BorrarInfoEmpleado",
+    "RelativePath": "api/Producto/BorrarInfoProducto/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "API_Inventario.Controllers.ProductoController",
+    "Method": "GetAll",
+    "RelativePath": "api/Producto/GetAll",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "API_Inventario.Controllers.ProductoController",
+    "Method": "GetAllCodigo",
+    "RelativePath": "api/Producto/GetAll/{Codigo}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Codigo",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "API_Inventario.Controllers.ProductoController",
+    "Method": "GuardarInfoEmpleado",
+    "RelativePath": "api/Producto/GuardarInfoProducto",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Producto",
+        "Type": "MODELS.DtoProducto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "API_Inventario.Controllers.ProductoController",
+    "Method": "ModificarInfoEmpleado",
+    "RelativePath": "api/Producto/ModificarInfoProducto",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Producto",
+        "Type": "MODELS.DtoProducto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

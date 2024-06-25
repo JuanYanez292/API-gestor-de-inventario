@@ -1,0 +1,110 @@
+C:\Users\gonza\Documents\Programacion\C#\Inventario-API\Inventario-API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\gonza\Documents\Programacion\C#\Inventario-API\Inventario-API\bin\Debug\net6.0\appsettings.json
+C:\Users\gonza\Documents\Programacion\C#\Inventario-API\Inventario-API\bin\Debug\net6.0\Inventario-API.exe
+C:\Users\gonza\Documents\Programacion\C#\Inventario-API\Inventario-API\bin\Debug\net6.0\Inventario-API.deps.json
+C:\Users\gonza\Documents\Programacion\C#\Inventario-API\Inventario-API\bin\Debug\net6.0\Inventario-API.runtimeconfig.json
+C:\Users\gonza\Documents\Programacion\C#\Inventario-API\Inventario-API\bin\Debug\net6.0\Inventario-API.dll
+C:\Users\gonza\Documents\Programacion\C#\Inventario-API\Inventario-API\bin\Debug\net6.0\Inventario-API.pdb
+C:\Users\gonza\Documents\Programacion\C#\Inventario-API\Inventario-API\bin\Debug\net6.0\Dapper.dll
+C:\Users\gonza\Documents\Programacion\C#\Inventario-API\Inventario-API\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\gonza\Documents\Programacion\C#\Inventario-API\Inventario-API\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\gonza\Documents\Programacion\C#\Inventario-API\Inventario-API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\gonza\Documents\Programacion\C#\Inventario-API\Inventario-API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\gonza\Documents\Programacion\C#\Inventario-API\Inventario-API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\gonza\Documents\Programacion\C#\Inventario-API\Inventario-API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\gonza\Documents\Programacion\C#\Inventario-API\Inventario-API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\gonza\Documents\Programacion\C#\Inventario-API\Inventario-API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\gonza\Documents\Programacion\C#\Inventario-API\Inventario-API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\gonza\Documents\Programacion\C#\Inventario-API\Inventario-API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\gonza\Documents\Programacion\C#\Inventario-API\Inventario-API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\gonza\Documents\Programacion\C#\Inventario-API\Inventario-API\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\gonza\Documents\Programacion\C#\Inventario-API\Inventario-API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\gonza\Documents\Programacion\C#\Inventario-API\Inventario-API\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\gonza\Documents\Programacion\C#\Inventario-API\Inventario-API\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\gonza\Documents\Programacion\C#\Inventario-API\Inventario-API\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\gonza\Documents\Programacion\C#\Inventario-API\Inventario-API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\gonza\Documents\Programacion\C#\Inventario-API\Inventario-API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\gonza\Documents\Programacion\C#\Inventario-API\Inventario-API\bin\Debug\net6.0\BLL.dll
+C:\Users\gonza\Documents\Programacion\C#\Inventario-API\Inventario-API\bin\Debug\net6.0\DAL.dll
+C:\Users\gonza\Documents\Programacion\C#\Inventario-API\Inventario-API\bin\Debug\net6.0\MODELS.dll
+C:\Users\gonza\Documents\Programacion\C#\Inventario-API\Inventario-API\bin\Debug\net6.0\BLL.pdb
+C:\Users\gonza\Documents\Programacion\C#\Inventario-API\Inventario-API\bin\Debug\net6.0\MODELS.pdb
+C:\Users\gonza\Documents\Programacion\C#\Inventario-API\Inventario-API\bin\Debug\net6.0\DAL.pdb
+C:\Users\gonza\Documents\Programacion\C#\Inventario-API\Inventario-API\obj\Debug\net6.0\Inventario-API.csproj.AssemblyReference.cache
+C:\Users\gonza\Documents\Programacion\C#\Inventario-API\Inventario-API\obj\Debug\net6.0\Inventario-API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gonza\Documents\Programacion\C#\Inventario-API\Inventario-API\obj\Debug\net6.0\Inventario-API.AssemblyInfoInputs.cache
+C:\Users\gonza\Documents\Programacion\C#\Inventario-API\Inventario-API\obj\Debug\net6.0\Inventario-API.AssemblyInfo.cs
+C:\Users\gonza\Documents\Programacion\C#\Inventario-API\Inventario-API\obj\Debug\net6.0\Inventario-API.csproj.CoreCompileInputs.cache
+C:\Users\gonza\Documents\Programacion\C#\Inventario-API\Inventario-API\obj\Debug\net6.0\Inventario-API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\gonza\Documents\Programacion\C#\Inventario-API\Inventario-API\obj\Debug\net6.0\Inventario-API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\gonza\Documents\Programacion\C#\Inventario-API\Inventario-API\obj\Debug\net6.0\staticwebassets\msbuild.Inventario-API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\gonza\Documents\Programacion\C#\Inventario-API\Inventario-API\obj\Debug\net6.0\staticwebassets\msbuild.build.Inventario-API.props
+C:\Users\gonza\Documents\Programacion\C#\Inventario-API\Inventario-API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Inventario-API.props
+C:\Users\gonza\Documents\Programacion\C#\Inventario-API\Inventario-API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Inventario-API.props
+C:\Users\gonza\Documents\Programacion\C#\Inventario-API\Inventario-API\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\gonza\Documents\Programacion\C#\Inventario-API\Inventario-API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\gonza\Documents\Programacion\C#\Inventario-API\Inventario-API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\gonza\Documents\Programacion\C#\Inventario-API\Inventario-API\obj\Debug\net6.0\scopedcss\bundle\Inventario-API.styles.css
+C:\Users\gonza\Documents\Programacion\C#\Inventario-API\Inventario-API\obj\Debug\net6.0\Inventario-API.csproj.CopyComplete
+C:\Users\gonza\Documents\Programacion\C#\Inventario-API\Inventario-API\obj\Debug\net6.0\Inventario-API.dll
+C:\Users\gonza\Documents\Programacion\C#\Inventario-API\Inventario-API\obj\Debug\net6.0\refint\Inventario-API.dll
+C:\Users\gonza\Documents\Programacion\C#\Inventario-API\Inventario-API\obj\Debug\net6.0\Inventario-API.pdb
+C:\Users\gonza\Documents\Programacion\C#\Inventario-API\Inventario-API\obj\Debug\net6.0\Inventario-API.genruntimeconfig.cache
+C:\Users\gonza\Documents\Programacion\C#\Inventario-API\Inventario-API\obj\Debug\net6.0\ref\Inventario-API.dll
+C:\Users\gonza\Documents\Programacion\C#\Inventario-API\Inventario-API\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\gonza\Documents\Programacion\C#\Inventario-API\Inventario-API\bin\Debug\net6.0\Twilio.dll
+C:\Users\JuanE\OneDrive\Documentos\Juan Pablo\Programacion\API-INVENTARIO\Inventario-API\Inventario-API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\JuanE\OneDrive\Documentos\Juan Pablo\Programacion\API-INVENTARIO\Inventario-API\Inventario-API\bin\Debug\net6.0\appsettings.json
+C:\Users\JuanE\OneDrive\Documentos\Juan Pablo\Programacion\API-INVENTARIO\Inventario-API\Inventario-API\bin\Debug\net6.0\Inventario-API.exe
+C:\Users\JuanE\OneDrive\Documentos\Juan Pablo\Programacion\API-INVENTARIO\Inventario-API\Inventario-API\bin\Debug\net6.0\Inventario-API.deps.json
+C:\Users\JuanE\OneDrive\Documentos\Juan Pablo\Programacion\API-INVENTARIO\Inventario-API\Inventario-API\bin\Debug\net6.0\Inventario-API.runtimeconfig.json
+C:\Users\JuanE\OneDrive\Documentos\Juan Pablo\Programacion\API-INVENTARIO\Inventario-API\Inventario-API\bin\Debug\net6.0\Inventario-API.dll
+C:\Users\JuanE\OneDrive\Documentos\Juan Pablo\Programacion\API-INVENTARIO\Inventario-API\Inventario-API\bin\Debug\net6.0\Inventario-API.pdb
+C:\Users\JuanE\OneDrive\Documentos\Juan Pablo\Programacion\API-INVENTARIO\Inventario-API\Inventario-API\bin\Debug\net6.0\Dapper.dll
+C:\Users\JuanE\OneDrive\Documentos\Juan Pablo\Programacion\API-INVENTARIO\Inventario-API\Inventario-API\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\JuanE\OneDrive\Documentos\Juan Pablo\Programacion\API-INVENTARIO\Inventario-API\Inventario-API\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\JuanE\OneDrive\Documentos\Juan Pablo\Programacion\API-INVENTARIO\Inventario-API\Inventario-API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\JuanE\OneDrive\Documentos\Juan Pablo\Programacion\API-INVENTARIO\Inventario-API\Inventario-API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\JuanE\OneDrive\Documentos\Juan Pablo\Programacion\API-INVENTARIO\Inventario-API\Inventario-API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\JuanE\OneDrive\Documentos\Juan Pablo\Programacion\API-INVENTARIO\Inventario-API\Inventario-API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\JuanE\OneDrive\Documentos\Juan Pablo\Programacion\API-INVENTARIO\Inventario-API\Inventario-API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\JuanE\OneDrive\Documentos\Juan Pablo\Programacion\API-INVENTARIO\Inventario-API\Inventario-API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\JuanE\OneDrive\Documentos\Juan Pablo\Programacion\API-INVENTARIO\Inventario-API\Inventario-API\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\JuanE\OneDrive\Documentos\Juan Pablo\Programacion\API-INVENTARIO\Inventario-API\Inventario-API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\JuanE\OneDrive\Documentos\Juan Pablo\Programacion\API-INVENTARIO\Inventario-API\Inventario-API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\JuanE\OneDrive\Documentos\Juan Pablo\Programacion\API-INVENTARIO\Inventario-API\Inventario-API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\JuanE\OneDrive\Documentos\Juan Pablo\Programacion\API-INVENTARIO\Inventario-API\Inventario-API\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\JuanE\OneDrive\Documentos\Juan Pablo\Programacion\API-INVENTARIO\Inventario-API\Inventario-API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\JuanE\OneDrive\Documentos\Juan Pablo\Programacion\API-INVENTARIO\Inventario-API\Inventario-API\bin\Debug\net6.0\Twilio.dll
+C:\Users\JuanE\OneDrive\Documentos\Juan Pablo\Programacion\API-INVENTARIO\Inventario-API\Inventario-API\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\JuanE\OneDrive\Documentos\Juan Pablo\Programacion\API-INVENTARIO\Inventario-API\Inventario-API\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\JuanE\OneDrive\Documentos\Juan Pablo\Programacion\API-INVENTARIO\Inventario-API\Inventario-API\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\JuanE\OneDrive\Documentos\Juan Pablo\Programacion\API-INVENTARIO\Inventario-API\Inventario-API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\JuanE\OneDrive\Documentos\Juan Pablo\Programacion\API-INVENTARIO\Inventario-API\Inventario-API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\JuanE\OneDrive\Documentos\Juan Pablo\Programacion\API-INVENTARIO\Inventario-API\Inventario-API\bin\Debug\net6.0\BLL.dll
+C:\Users\JuanE\OneDrive\Documentos\Juan Pablo\Programacion\API-INVENTARIO\Inventario-API\Inventario-API\bin\Debug\net6.0\DAL.dll
+C:\Users\JuanE\OneDrive\Documentos\Juan Pablo\Programacion\API-INVENTARIO\Inventario-API\Inventario-API\bin\Debug\net6.0\MODELS.dll
+C:\Users\JuanE\OneDrive\Documentos\Juan Pablo\Programacion\API-INVENTARIO\Inventario-API\Inventario-API\bin\Debug\net6.0\BLL.pdb
+C:\Users\JuanE\OneDrive\Documentos\Juan Pablo\Programacion\API-INVENTARIO\Inventario-API\Inventario-API\bin\Debug\net6.0\MODELS.pdb
+C:\Users\JuanE\OneDrive\Documentos\Juan Pablo\Programacion\API-INVENTARIO\Inventario-API\Inventario-API\bin\Debug\net6.0\DAL.pdb
+C:\Users\JuanE\OneDrive\Documentos\Juan Pablo\Programacion\API-INVENTARIO\Inventario-API\Inventario-API\obj\Debug\net6.0\Inventario-API.csproj.AssemblyReference.cache
+C:\Users\JuanE\OneDrive\Documentos\Juan Pablo\Programacion\API-INVENTARIO\Inventario-API\Inventario-API\obj\Debug\net6.0\Inventario-API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JuanE\OneDrive\Documentos\Juan Pablo\Programacion\API-INVENTARIO\Inventario-API\Inventario-API\obj\Debug\net6.0\Inventario-API.AssemblyInfoInputs.cache
+C:\Users\JuanE\OneDrive\Documentos\Juan Pablo\Programacion\API-INVENTARIO\Inventario-API\Inventario-API\obj\Debug\net6.0\Inventario-API.AssemblyInfo.cs
+C:\Users\JuanE\OneDrive\Documentos\Juan Pablo\Programacion\API-INVENTARIO\Inventario-API\Inventario-API\obj\Debug\net6.0\Inventario-API.csproj.CoreCompileInputs.cache
+C:\Users\JuanE\OneDrive\Documentos\Juan Pablo\Programacion\API-INVENTARIO\Inventario-API\Inventario-API\obj\Debug\net6.0\Inventario-API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\JuanE\OneDrive\Documentos\Juan Pablo\Programacion\API-INVENTARIO\Inventario-API\Inventario-API\obj\Debug\net6.0\Inventario-API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\JuanE\OneDrive\Documentos\Juan Pablo\Programacion\API-INVENTARIO\Inventario-API\Inventario-API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\JuanE\OneDrive\Documentos\Juan Pablo\Programacion\API-INVENTARIO\Inventario-API\Inventario-API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\JuanE\OneDrive\Documentos\Juan Pablo\Programacion\API-INVENTARIO\Inventario-API\Inventario-API\obj\Debug\net6.0\staticwebassets\msbuild.Inventario-API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\JuanE\OneDrive\Documentos\Juan Pablo\Programacion\API-INVENTARIO\Inventario-API\Inventario-API\obj\Debug\net6.0\staticwebassets\msbuild.build.Inventario-API.props
+C:\Users\JuanE\OneDrive\Documentos\Juan Pablo\Programacion\API-INVENTARIO\Inventario-API\Inventario-API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Inventario-API.props
+C:\Users\JuanE\OneDrive\Documentos\Juan Pablo\Programacion\API-INVENTARIO\Inventario-API\Inventario-API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Inventario-API.props
+C:\Users\JuanE\OneDrive\Documentos\Juan Pablo\Programacion\API-INVENTARIO\Inventario-API\Inventario-API\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\JuanE\OneDrive\Documentos\Juan Pablo\Programacion\API-INVENTARIO\Inventario-API\Inventario-API\obj\Debug\net6.0\scopedcss\bundle\Inventario-API.styles.css
+C:\Users\JuanE\OneDrive\Documentos\Juan Pablo\Programacion\API-INVENTARIO\Inventario-API\Inventario-API\obj\Debug\net6.0\Inventar.EC3186C8.Up2Date
+C:\Users\JuanE\OneDrive\Documentos\Juan Pablo\Programacion\API-INVENTARIO\Inventario-API\Inventario-API\obj\Debug\net6.0\Inventario-API.dll
+C:\Users\JuanE\OneDrive\Documentos\Juan Pablo\Programacion\API-INVENTARIO\Inventario-API\Inventario-API\obj\Debug\net6.0\refint\Inventario-API.dll
+C:\Users\JuanE\OneDrive\Documentos\Juan Pablo\Programacion\API-INVENTARIO\Inventario-API\Inventario-API\obj\Debug\net6.0\Inventario-API.pdb
+C:\Users\JuanE\OneDrive\Documentos\Juan Pablo\Programacion\API-INVENTARIO\Inventario-API\Inventario-API\obj\Debug\net6.0\Inventario-API.genruntimeconfig.cache
+C:\Users\JuanE\OneDrive\Documentos\Juan Pablo\Programacion\API-INVENTARIO\Inventario-API\Inventario-API\obj\Debug\net6.0\ref\Inventario-API.dll

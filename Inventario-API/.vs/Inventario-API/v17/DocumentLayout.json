@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\JuanE\\OneDrive\\Documentos\\Juan Pablo\\Programacion\\API-INVENTARIO\\Inventario-API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C9C8F811-68CA-4467-8546-49CB2F086661}|Inventario-API\\Inventario-API.csproj|c:\\users\\juane\\onedrive\\documentos\\juan pablo\\programacion\\api-inventario\\inventario-api\\inventario-api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C9C8F811-68CA-4467-8546-49CB2F086661}|Inventario-API\\Inventario-API.csproj|solutionrelative:inventario-api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{152A12C0-DDB6-480C-8AE7-3BDC2FEB5EA5}|DAL\\DAL.csproj|c:\\users\\juane\\onedrive\\documentos\\juan pablo\\programacion\\api-inventario\\inventario-api\\dal\\contexto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{152A12C0-DDB6-480C-8AE7-3BDC2FEB5EA5}|DAL\\DAL.csproj|solutionrelative:dal\\contexto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\JuanE\\OneDrive\\Documentos\\Juan Pablo\\Programacion\\API-INVENTARIO\\Inventario-API\\Inventario-API\\appsettings.json",
+              "RelativeDocumentMoniker": "Inventario-API\\appsettings.json",
+              "ToolTip": "C:\\Users\\JuanE\\OneDrive\\Documentos\\Juan Pablo\\Programacion\\API-INVENTARIO\\Inventario-API\\Inventario-API\\appsettings.json",
+              "RelativeToolTip": "Inventario-API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-23T21:27:31.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Contexto.cs",
+              "DocumentMoniker": "C:\\Users\\JuanE\\OneDrive\\Documentos\\Juan Pablo\\Programacion\\API-INVENTARIO\\Inventario-API\\DAL\\Contexto.cs",
+              "RelativeDocumentMoniker": "DAL\\Contexto.cs",
+              "ToolTip": "C:\\Users\\JuanE\\OneDrive\\Documentos\\Juan Pablo\\Programacion\\API-INVENTARIO\\Inventario-API\\DAL\\Contexto.cs",
+              "RelativeToolTip": "DAL\\Contexto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T04:34:09.699Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

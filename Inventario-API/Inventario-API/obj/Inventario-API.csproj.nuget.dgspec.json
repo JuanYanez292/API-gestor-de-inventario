@@ -1,0 +1,347 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\JuanE\\OneDrive\\Documentos\\Juan Pablo\\Programacion\\API-INVENTARIO\\Inventario-API\\Inventario-API\\Inventario-API.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\JuanE\\OneDrive\\Documentos\\Juan Pablo\\Programacion\\API-INVENTARIO\\Inventario-API\\BLL\\BLL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\JuanE\\OneDrive\\Documentos\\Juan Pablo\\Programacion\\API-INVENTARIO\\Inventario-API\\BLL\\BLL.csproj",
+        "projectName": "BLL",
+        "projectPath": "C:\\Users\\JuanE\\OneDrive\\Documentos\\Juan Pablo\\Programacion\\API-INVENTARIO\\Inventario-API\\BLL\\BLL.csproj",
+        "packagesPath": "C:\\Users\\JuanE\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\JuanE\\OneDrive\\Documentos\\Juan Pablo\\Programacion\\API-INVENTARIO\\Inventario-API\\BLL\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\JuanE\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\JuanE\\OneDrive\\Documentos\\Juan Pablo\\Programacion\\API-INVENTARIO\\Inventario-API\\DAL\\DAL.csproj": {
+                "projectPath": "C:\\Users\\JuanE\\OneDrive\\Documentos\\Juan Pablo\\Programacion\\API-INVENTARIO\\Inventario-API\\DAL\\DAL.csproj"
+              },
+              "C:\\Users\\JuanE\\OneDrive\\Documentos\\Juan Pablo\\Programacion\\API-INVENTARIO\\Inventario-API\\MODELS\\MODELS.csproj": {
+                "projectPath": "C:\\Users\\JuanE\\OneDrive\\Documentos\\Juan Pablo\\Programacion\\API-INVENTARIO\\Inventario-API\\MODELS\\MODELS.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Twilio": {
+              "target": "Package",
+              "version": "[6.15.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.27, 6.0.27]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.27, 6.0.27]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.27, 6.0.27]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\JuanE\\OneDrive\\Documentos\\Juan Pablo\\Programacion\\API-INVENTARIO\\Inventario-API\\DAL\\DAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\JuanE\\OneDrive\\Documentos\\Juan Pablo\\Programacion\\API-INVENTARIO\\Inventario-API\\DAL\\DAL.csproj",
+        "projectName": "DAL",
+        "projectPath": "C:\\Users\\JuanE\\OneDrive\\Documentos\\Juan Pablo\\Programacion\\API-INVENTARIO\\Inventario-API\\DAL\\DAL.csproj",
+        "packagesPath": "C:\\Users\\JuanE\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\JuanE\\OneDrive\\Documentos\\Juan Pablo\\Programacion\\API-INVENTARIO\\Inventario-API\\DAL\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\JuanE\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.1.21, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\JuanE\\OneDrive\\Documentos\\Juan Pablo\\Programacion\\API-INVENTARIO\\Inventario-API\\Inventario-API\\Inventario-API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\JuanE\\OneDrive\\Documentos\\Juan Pablo\\Programacion\\API-INVENTARIO\\Inventario-API\\Inventario-API\\Inventario-API.csproj",
+        "projectName": "Inventario-API",
+        "projectPath": "C:\\Users\\JuanE\\OneDrive\\Documentos\\Juan Pablo\\Programacion\\API-INVENTARIO\\Inventario-API\\Inventario-API\\Inventario-API.csproj",
+        "packagesPath": "C:\\Users\\JuanE\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\JuanE\\OneDrive\\Documentos\\Juan Pablo\\Programacion\\API-INVENTARIO\\Inventario-API\\Inventario-API\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\JuanE\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\JuanE\\OneDrive\\Documentos\\Juan Pablo\\Programacion\\API-INVENTARIO\\Inventario-API\\BLL\\BLL.csproj": {
+                "projectPath": "C:\\Users\\JuanE\\OneDrive\\Documentos\\Juan Pablo\\Programacion\\API-INVENTARIO\\Inventario-API\\BLL\\BLL.csproj"
+              },
+              "C:\\Users\\JuanE\\OneDrive\\Documentos\\Juan Pablo\\Programacion\\API-INVENTARIO\\Inventario-API\\MODELS\\MODELS.csproj": {
+                "projectPath": "C:\\Users\\JuanE\\OneDrive\\Documentos\\Juan Pablo\\Programacion\\API-INVENTARIO\\Inventario-API\\MODELS\\MODELS.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.1.21, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[6.0.22, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.5, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[7.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\JuanE\\OneDrive\\Documentos\\Juan Pablo\\Programacion\\API-INVENTARIO\\Inventario-API\\MODELS\\MODELS.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\JuanE\\OneDrive\\Documentos\\Juan Pablo\\Programacion\\API-INVENTARIO\\Inventario-API\\MODELS\\MODELS.csproj",
+        "projectName": "MODELS",
+        "projectPath": "C:\\Users\\JuanE\\OneDrive\\Documentos\\Juan Pablo\\Programacion\\API-INVENTARIO\\Inventario-API\\MODELS\\MODELS.csproj",
+        "packagesPath": "C:\\Users\\JuanE\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\JuanE\\OneDrive\\Documentos\\Juan Pablo\\Programacion\\API-INVENTARIO\\Inventario-API\\MODELS\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\JuanE\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.27, 6.0.27]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.27, 6.0.27]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.27, 6.0.27]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

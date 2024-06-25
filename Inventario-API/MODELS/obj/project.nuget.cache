@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "WfBd/NczgWW7ZhKkGBuKuuF1yllw3QLQz6rVzzNYG1Tf5PhJtO18y0zq0spSAoKnmhj2T9S4+0tZ44KSuU/egg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\JuanE\\OneDrive\\Documentos\\Juan Pablo\\Programacion\\API-INVENTARIO\\Inventario-API\\MODELS\\MODELS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\JuanE\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.27\\microsoft.windowsdesktop.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\JuanE\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.27\\microsoft.netcore.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\JuanE\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.27\\microsoft.aspnetcore.app.ref.6.0.27.nupkg.sha512"
+  ],
+  "logs": []
+}

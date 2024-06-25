@@ -1,0 +1,39 @@
+C:\Users\gonza\Documents\Programacion\C#\app_Inventario\app_Inventario\bin\Debug\app_Inventario.exe.config
+C:\Users\gonza\Documents\Programacion\C#\app_Inventario\app_Inventario\bin\Debug\app_Inventario.exe
+C:\Users\gonza\Documents\Programacion\C#\app_Inventario\app_Inventario\bin\Debug\app_Inventario.pdb
+C:\Users\gonza\Documents\Programacion\C#\app_Inventario\app_Inventario\obj\Debug\app_Inventario.csproj.AssemblyReference.cache
+C:\Users\gonza\Documents\Programacion\C#\app_Inventario\app_Inventario\obj\Debug\app_Inventario.csproj.SuggestedBindingRedirects.cache
+C:\Users\gonza\Documents\Programacion\C#\app_Inventario\app_Inventario\obj\Debug\app_Inventario.GetAll.resources
+C:\Users\gonza\Documents\Programacion\C#\app_Inventario\app_Inventario\obj\Debug\app_Inventario.Properties.Resources.resources
+C:\Users\gonza\Documents\Programacion\C#\app_Inventario\app_Inventario\obj\Debug\app_Inventario.csproj.GenerateResource.cache
+C:\Users\gonza\Documents\Programacion\C#\app_Inventario\app_Inventario\obj\Debug\app_Inventario.csproj.CoreCompileInputs.cache
+C:\Users\gonza\Documents\Programacion\C#\app_Inventario\app_Inventario\obj\Debug\app_Inventario.exe
+C:\Users\gonza\Documents\Programacion\C#\app_Inventario\app_Inventario\obj\Debug\app_Inventario.pdb
+C:\Users\gonza\Documents\Programacion\C#\app_Inventario\app_Inventario\bin\Debug\Newtonsoft.Json.dll
+C:\Users\gonza\Documents\Programacion\C#\app_Inventario\app_Inventario\bin\Debug\Newtonsoft.Json.xml
+C:\Users\gonza\Documents\Programacion\C#\app_Inventario\app_Inventario\obj\Debug\app_Inventario.csproj.CopyComplete
+C:\Users\gonza\Documents\Programacion\C#\app_Inventario\app_Inventario\obj\Debug\app_Inventario.GuardarProducto.resources
+C:\Users\gonza\Documents\Programacion\C#\app_Inventario\app_Inventario\obj\Debug\app_Inventario.ModificarProducto.resources
+C:\Users\gonza\Documents\Programacion\C#\app_Inventario\app_Inventario\obj\Debug\app_Inventario.BorrarProducto.resources
+C:\Users\gonza\Documents\Programacion\C#\app_Inventario\app_Inventario\obj\Debug\app_Inventario.Menu.resources
+C:\Users\gonza\Documents\Programacion\C#\app_Inventario\app_Inventario\obj\Debug\app_Inventario.BuscarProducto.resources
+C:\Users\gonza\Documents\Programacion\C#\app_Inventario\app_Inventario\obj\Debug\app_Inventario.IniciarSesion.resources
+C:\Users\JuanE\OneDrive\Documentos\Juan Pablo\Programacion\API-INVENTARIO\app_Inventario\app_Inventario\bin\Debug\app_Inventario.exe.config
+C:\Users\JuanE\OneDrive\Documentos\Juan Pablo\Programacion\API-INVENTARIO\app_Inventario\app_Inventario\bin\Debug\app_Inventario.exe
+C:\Users\JuanE\OneDrive\Documentos\Juan Pablo\Programacion\API-INVENTARIO\app_Inventario\app_Inventario\bin\Debug\app_Inventario.pdb
+C:\Users\JuanE\OneDrive\Documentos\Juan Pablo\Programacion\API-INVENTARIO\app_Inventario\app_Inventario\bin\Debug\Newtonsoft.Json.dll
+C:\Users\JuanE\OneDrive\Documentos\Juan Pablo\Programacion\API-INVENTARIO\app_Inventario\app_Inventario\bin\Debug\Newtonsoft.Json.xml
+C:\Users\JuanE\OneDrive\Documentos\Juan Pablo\Programacion\API-INVENTARIO\app_Inventario\app_Inventario\obj\Debug\app_Inventario.csproj.AssemblyReference.cache
+C:\Users\JuanE\OneDrive\Documentos\Juan Pablo\Programacion\API-INVENTARIO\app_Inventario\app_Inventario\obj\Debug\app_Inventario.BorrarProducto.resources
+C:\Users\JuanE\OneDrive\Documentos\Juan Pablo\Programacion\API-INVENTARIO\app_Inventario\app_Inventario\obj\Debug\app_Inventario.BuscarProducto.resources
+C:\Users\JuanE\OneDrive\Documentos\Juan Pablo\Programacion\API-INVENTARIO\app_Inventario\app_Inventario\obj\Debug\app_Inventario.GetAll.resources
+C:\Users\JuanE\OneDrive\Documentos\Juan Pablo\Programacion\API-INVENTARIO\app_Inventario\app_Inventario\obj\Debug\app_Inventario.GuardarProducto.resources
+C:\Users\JuanE\OneDrive\Documentos\Juan Pablo\Programacion\API-INVENTARIO\app_Inventario\app_Inventario\obj\Debug\app_Inventario.IniciarSesion.resources
+C:\Users\JuanE\OneDrive\Documentos\Juan Pablo\Programacion\API-INVENTARIO\app_Inventario\app_Inventario\obj\Debug\app_Inventario.Menu.resources
+C:\Users\JuanE\OneDrive\Documentos\Juan Pablo\Programacion\API-INVENTARIO\app_Inventario\app_Inventario\obj\Debug\app_Inventario.ModificarProducto.resources
+C:\Users\JuanE\OneDrive\Documentos\Juan Pablo\Programacion\API-INVENTARIO\app_Inventario\app_Inventario\obj\Debug\app_Inventario.Properties.Resources.resources
+C:\Users\JuanE\OneDrive\Documentos\Juan Pablo\Programacion\API-INVENTARIO\app_Inventario\app_Inventario\obj\Debug\app_Inventario.csproj.GenerateResource.cache
+C:\Users\JuanE\OneDrive\Documentos\Juan Pablo\Programacion\API-INVENTARIO\app_Inventario\app_Inventario\obj\Debug\app_Inventario.csproj.CoreCompileInputs.cache
+C:\Users\JuanE\OneDrive\Documentos\Juan Pablo\Programacion\API-INVENTARIO\app_Inventario\app_Inventario\obj\Debug\app_Inve.829A8969.Up2Date
+C:\Users\JuanE\OneDrive\Documentos\Juan Pablo\Programacion\API-INVENTARIO\app_Inventario\app_Inventario\obj\Debug\app_Inventario.exe
+C:\Users\JuanE\OneDrive\Documentos\Juan Pablo\Programacion\API-INVENTARIO\app_Inventario\app_Inventario\obj\Debug\app_Inventario.pdb
